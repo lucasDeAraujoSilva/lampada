@@ -1,4 +1,4 @@
-###Lâmpada
+# Lâmpada
 
 ## Objetivo
-Iniciar a interação com JavaScript integrado com HTML e CSS.
+Iniciar a interação com JavaScript integrado ao HTML e CSS.
