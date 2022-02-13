@@ -1,15 +1,14 @@
-body{
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    display: flex;
-    height: 100%;
+body {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  height: 100%;
 }
-
-button{
-    width: 90px;
+button {
+  width: 90px;
 }
-html{
-    height: 100%;
+html {
+  height: 100%;
 }
